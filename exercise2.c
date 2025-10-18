@@ -100,3 +100,5 @@ void print(stack *s)
     }
     printf("\n");
 }
+
+
