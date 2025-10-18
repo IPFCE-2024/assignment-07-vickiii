@@ -8,7 +8,6 @@
  * Taylor series for sin(x) = x - x^3/3! + x^5/5! - x^7/7! + ...
  */
 
-
 // Her starter delopg a (header file):
  #ifndef TAYLOR_SINE_H //Hvis TAYLOR_SINE_H ikke allerede er defineret, så fortsæt
  #define TAYLOR_SINE_H //Definer TAYLOR_SINE_H: undgår dobbelt inkludering
