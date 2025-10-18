@@ -72,8 +72,7 @@ bool full(stack *s)
 {
     /* pre-condition: true */
     /* post-condition: Returns true if stack is full, false otherwise */
-    s->head == NULL;
-    
+
     return false;
 }
 
