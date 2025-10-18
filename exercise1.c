@@ -17,18 +17,15 @@
 
  #endif //Afslutter #ifndef
 
-
-// Her starter delopg a (source file):
-#include "taylor_sine.h"
-
-
-
 /* 
  * Calculate sine using Taylor series approximation
  * x: input value in radians
  * n: number of terms in the series
  * Returns: approximation of sin(x)
  */
+
+// Her starter delopg a (source file):
+#include "taylor_sine.h"
 
  //Beregning af tælleren x^n:
  double power(double x, int n){
