@@ -11,3 +11,11 @@
  */
 
 #endif
+
+// Her starter delopg a (header file):
+ #ifndef TAYLOR_SINE_H //Hvis TAYLOR_SINE_H ikke allerede er defineret, så fortsæt
+ #define TAYLOR_SINE_H //Definer TAYLOR_SINE_H: undgår dobbelt inkludering
+
+ double taylor_sine(double x, int n); //deklarerer funktionen
+
+ #endif //Afslutter #ifndef
